@@ -2,9 +2,10 @@
 
 This is the code relative to the method introduced in
 
-**Minimally distorted Adversarial Examples with a Fast Adaptive Attack**\
+**Minimally distorted Adversarial Examples with a Fast Adaptive Boundary Attack**\
 Francesco Croce, Matthias Hein\
-*University of Tübingen*
+*University of Tübingen*\
+[https://arxiv.org/pdf/1907.02044.pdf](https://arxiv.org/pdf/1907.02044.pdf)
 
 We propose a new white-box adversarial attack against neural networks-based classifiers. FAB-attack aims at changing the
 classification of a clean input applying a perturbation
@@ -31,4 +32,4 @@ performs the Linf attack on the model.
 ## Results
 
 FAB-attack achieves the best results in the two challenges at
-[https://github.com/yaodongyu/TRADES](https://github.com/yaodongyu/TRADES).
+[https://github.com/yaodongyu/TRADES](https://github.com/yaodongyu/TRADES) and the one at [https://github.com/MadryLab/cifar10_challenge](https://github.com/MadryLab/cifar10_challenge).
